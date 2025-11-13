@@ -1,6 +1,6 @@
 # Backend Developer Intern Technical Assessment
 
-Repository ini merupakan submission untuk **technical assessment Backend Developer Intern** di Inovasi Daya Solusi.
+Repository ini merupakan submission untuk **technical assessment Backend Developer Intern**.
 
 ## 📋 Konten 
 

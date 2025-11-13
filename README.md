@@ -22,7 +22,7 @@ Repository ini berisi dua komponen utama:
   - Spring Data JPA - Data Access Layer
 
 - Database
-  - MySQL 5.5.5 - Relational Database
+  - MySQL - Relational Database
 
 - Build & Development Tools
   - Maven - Dependency Management & Build Tool
